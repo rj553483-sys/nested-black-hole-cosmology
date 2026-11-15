@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Loop Quantum Cosmology (LQC) Effective Bounce Solver
+=============================================================================
+Solves the holonomy-corrected effective Friedmann equation through the non-singular
+quantum bounce at critical density rho_c ~ 0.41 rho_Pl ~ 2.11 x 10^96 kg/m^3,
+evaluating repulsive quantum pressure and Null Energy Condition (NEC) violation[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+=============================================================================
+"""
+
 import numpy as np
 
 G = 6.67430e-11
