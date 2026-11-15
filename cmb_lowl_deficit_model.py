@@ -1,3 +1,13 @@
+"""
+=============================================================================
+CMB Low-Multipole Power Deficit Model
+=============================================================================
+Computes the quantitative temperature anisotropy power deficit at low multipoles 
+(l=2 quadrupole, l=3 octopole) as a function of host dimensionless rotation 
+parameter (a/M) for the Nested Black Hole Cosmology framework[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+=============================================================================
+"""
+
 import numpy as np
 
 def compute_cmb_power_deficit(a_over_M_list=[0.1, 0.2, 0.3, 0.4, 0.5]):
