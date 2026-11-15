@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Bianchi IX Shear Isotropization Integrator
+=============================================================================
+Evaluates the exponential decay of spatial shear anisotropy (sigma^2 / H^2)
+driven by Wald's cosmic no-hair theorem in the presence of positive vacuum 
+energy (Lambda > 0) for the Nested Black Hole Cosmology framework.
+=============================================================================
+"""
+
 import numpy as np
 
 H0 = 2.184e-18
