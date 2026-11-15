@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Astrophysical Observational Fit Validation Diagnostic
+=============================================================================
+Validates cosmological parameter fits and observational constraints against
+Planck PR4 (NPIPE) legacy CMB maps, DESI BAO data releases, and Pantheon+ 
+Type Ia Supernovae datasets for the Nested Black Hole Cosmology framework[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+=============================================================================
+"""
+
 import numpy as np
 
 def run_astropy_validation():
