@@ -1,3 +1,12 @@
+"""
+=============================================================================
+Running Hubble Parameter ($H_0$) Across Void Boundaries Diagnostic
+=============================================================================
+Models spatial variation and effective Hubble parameter running across local 
+boundary horizon interfaces for the Nested Black Hole Cosmology framework[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+=============================================================================
+"""
+
 import numpy as np
 
 def run_h0_diagnostic():
