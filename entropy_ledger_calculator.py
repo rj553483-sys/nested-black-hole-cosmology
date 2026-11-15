@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Bekenstein-Hawking Entropy Ledger & Host Mass Calculator
+=============================================================================
+Inverts the Bekenstein-Hawking area law against the empirical universe entropy
+inventory (S_int ~ 3.1 x 10^104 k_B) to derive the minimum host mass lower bound
+M_ext >= 5.4 x 10^13 M_sun and evaluate ultra-dilute horizon entry scales[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+=============================================================================
+"""
+
 import numpy as np
 
 G = 6.67430e-11
