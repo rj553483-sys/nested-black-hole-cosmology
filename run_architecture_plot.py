@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Interior FLRW Architecture & Boundary Conditions Plot Generator
+=============================================================================
+Generates publication-quality schematic diagnostic visualizations of the nested 
+black hole interior FLRW architecture, host Schwarzschild boundaries, LQC bounce 
+throat, and cosmological expansion parameters.
+=============================================================================
+"""
+
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
