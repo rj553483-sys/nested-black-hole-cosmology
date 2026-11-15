@@ -1,3 +1,13 @@
+"""
+=============================================================================
+Novel Boundary Coupling Term Analysis Diagnostic
+=============================================================================
+Evaluates non-minimal boundary scalar-curvature coupling term dynamics and
+effective coupling parameter (kappa) scaling as a function of entropy scale
+ratios across generational event horizon interfaces.
+=============================================================================
+"""
+
 import numpy as np
 
 def run_coupling_analysis():
